@@ -14,31 +14,16 @@
 ## Mis conocimientos
 
 ### Lenguajes de programación
-- C#
-- Python
-- Java
-- JavaScript
-- Lua
+- C#, Python, Java, JavaScript, Lua
 
 ### Bases de datos
-- Microsoft SQL Server
-- MySQL
-- MongoDB
-- SQLite
+- Microsoft SQL Server, MySQL, MongoDB, SQLite
 
 ### Web
-- ASP.NET
-- Node.js
-- HTML
-- CSS
+- ASP.NET, Node.js, HTML, CSS
 
 ### Aplicaciones
-- Visual Studio (& Code)
-- NetBeans
-- Postman
-- Unity
+- Visual Studio (+ Code), NetBeans, Postman, Unity
 
 ### Interfícies gráficas
-- Windows Forms
-- Windows Presentation Foundation (WPF)
-- QT
+- Windows Forms, Windows Presentation Foundation (WPF), QT
